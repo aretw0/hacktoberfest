@@ -16617,3 +16617,8 @@ to explore life. Also, Python and Django Developer
 - Place: México
 - Bio: Developer
 - Github: [enriquearce](https://github.com/enriquearce)
+
+#### Name: [Arthur Aleksandro](https://github.com/aretw0)
+- Place: Fortaleza, Brazil
+- Bio: Web Developer and Graduating in Computer Science
+- GitHub: [aretw0](https://github.com/aretw0)
