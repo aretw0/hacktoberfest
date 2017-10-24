@@ -16617,3 +16617,8 @@ to explore life. Also, Python and Django Developer
 - Place: México
 - Bio: Developer
 - Github: [enriquearce](https://github.com/enriquearce)
+
+#### Name: [Arthur Silva](https://github.com/aretw0)
+- Place: Mossoró, RN, Brazil
+- Bio: Graduating in Computer Science and Web developer.
+- GitHub: [aretw0](https://github.com/aretw0)
